@@ -7,7 +7,7 @@ The Iterative Prisoner's Dilemma project is an in-depth exploration of the class
 
 ### Prisoner's Dilemma (PD)
 
-![Prisoner's Dilemma (PD)](1.png)
+![Prisoner's Dilemma (PD)](model/1.png)
 
 ## Project Structure
 
@@ -192,7 +192,7 @@ def s_soft_joss(u_1h, u_2h):
      
 ### Result
 
-![result](2.png)
+![result](results/2.png)
 
 ## How to Use This Project
 
